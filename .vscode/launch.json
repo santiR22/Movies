@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "firefox",
+            "name": "http://localhost:3000/movies/550988",
+            "request": "launch",
+            "url": "http://localhost:3000/movies/550988",
+            "pathMappings": [
+                {
+                    "url": "file:///C:/Users/santi/Desktop/Proyectos/REACT/movies/src",
+                    "path": "${workspaceFolder}/src"
+                },
+                {
+                    "url": "file:///C:/Users/santi/Desktop/Proyectos/REACT/movies/src",
+                    "path": "${workspaceFolder}/src"
+                },
+                {
+                    "url": "file:///C:/Users/santi/Desktop/Proyectos/REACT/movies/src",
+                    "path": "${workspaceFolder}/src"
+                }
+            ]
+        }
+    ]
+}

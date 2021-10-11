@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    font-size: 3rem;
+    text-shadow:
+		0 0 5px rgb(140, 0, 255),
+		0 0 10px rgb(140, 0, 255),
+		0 0 20px rgb(140, 0, 255),
+		0 0 40px rgb(102, 6, 180),
+		0 0 80px rgb(100, 15, 170),
+		0 0 90px rgb(100, 15, 170),
+		0 0 100px rgb(100, 15, 170),    
+		0 0 140px rgb(100, 15, 170),
+		0 0 180px rgb(77, 38, 127);
+}

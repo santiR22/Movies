@@ -5,7 +5,6 @@ import styles from "./MovieDetails.module.css";
 
 export function MovieDetails() {
   const { movieId } = useParams();
-
   const [movie, setMovie] = useState(null);
 
   useEffect(() => {
